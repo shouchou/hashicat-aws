@@ -1,0 +1,24 @@
+
+*** These modified files were found in JOE when it aborted on Thu Jul  2 12:06:50 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/MERGE_MSG
+
+*** File '/root/hashicat-aws/.git/MERGE_MSG'
+git pull origin master
+Merge
+
+ branch 'master' of https://github.com/shouchou/hashicat-aws
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
